@@ -1,0 +1,20 @@
+CSS
+- internal : code riêng 1 thẻ cho css ( ví dụ 
+< head >
+	< style >
+		h1 { color : red ; font size : 30px }
+	< /style >
+</head >
+- external : link vào 1 file css riêng 
+- inline : ghi thẳng vào trong thẻ ( ví dụ < h1 style = "" > )
+
+
+Độ ưu tiên trong CSS
+!important - internal = external - inline - #id - .class - tag
+
+
+
+
+
+ID : #idname {}
+class : .classname {}
